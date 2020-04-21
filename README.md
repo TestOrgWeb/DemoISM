@@ -1,4 +1,4 @@
-# Open Distro for Elasticsearch Index Management Demo repository
+# Open Distro for Elasticsearch Index Management Demo repository depth-1
 
 Open Distro for Elasticsearch Index Management provides a suite of features to monitor and manage indexes.
 
