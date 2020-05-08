@@ -1,4 +1,6 @@
-# Open Distro for Elasticsearch Index Management
+# Open Distro for Elasticsearch Index Management Demo repository
+
+This is second commit on this
 
 Open Distro for Elasticsearch Index Management provides a suite of features to monitor and manage indexes.
 
